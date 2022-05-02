@@ -1,8 +1,0 @@
-Algoritmo Converte_Dolar
-
-Digite o valor da cotação e armazene em cotacao
-Digite a quantia em reais e armazene em valor-reais
-Faça valor em dolar=valor_reais/cotacao
-Mostre valor em dolar
-FimAlgoritmo
-
