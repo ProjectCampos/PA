@@ -1,0 +1,14 @@
+Algoritmo somaQuadrados
+	Entre com n1
+	Entre com n2
+	Entre com n3
+	Entre com n4
+	Faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4)
+	mostre resultado
+FimAlgoritimo
+
+
+          Teste de mesa
+
+n1	n2	n3	n4	total
+10      12      18      16      824
