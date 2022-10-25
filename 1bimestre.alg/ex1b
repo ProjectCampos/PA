@@ -1,12 +1,12 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 21/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 A,B,C: inteiro
 inicio
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
 
 A <- 30
 B <- 20
